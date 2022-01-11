@@ -5,4 +5,8 @@ Experienced Full Stack Engineer with a demonstrated history of working in the in
 - 🔭 I’m currently working on building Responsive and Accessible Vue and Angular Web application
 - 📫 How to reach me: <ul><li><a href="https://www.linkedin.com/in/dawith305/">LinkedIn<a/></li><li><a href="mailto:dawith305@gmail.com">Gmail<a/></li><li><a href="https://festive-golick-58ec64.netlify.app/">Website<a/></li></ul>
 
+### 📈 My GitHub Stats
+  
+![My github stats](https://github-readme-stats.vercel.app/api?username=baronin&show_icons=true&count_private=true&hide=stars)
+
 
