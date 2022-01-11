@@ -9,4 +9,10 @@ Experienced Full Stack Engineer with a demonstrated history of working in the in
   
 ![My github stats](https://github-readme-stats.vercel.app/api?username=baronin&show_icons=true&count_private=true&hide=stars)
 
+### Most used language
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baronin&show_icons=true&locale=en&layout=compact" alt="baronin" />
+
+<br/>
+
 
