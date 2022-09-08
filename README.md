@@ -7,7 +7,7 @@ Experienced Full Stack Engineer with a demonstrated history of working in the in
 
 ### 📈 My GitHub Stats
   
-![My github stats](https://github-readme-stats.vercel.app/api?username=dawith305&show_icons=true&count_private=true&hide=stars)
+![My github stats](https://github-readme-stats.vercel.app/api?username=dawith305&show_icons=true&hide=stars)
 
 ### Most used language
 
