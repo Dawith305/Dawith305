@@ -11,7 +11,7 @@ Experienced Full Stack Engineer with a demonstrated history of working in the in
 
 ### Most used language
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawith305&show_icons=true&locale=en&layout=compact" alt="baronin" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawith305&show_icons=true&locale=en&layout=compact" alt="dawit" />
 
 <br/>
 
